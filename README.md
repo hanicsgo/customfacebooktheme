@@ -7,7 +7,7 @@ Website chosen: **Facebook login page**.
 HTML, CSS & JS only
 
 ## Contact 
-https://www.facebook.com/24kblossom/
+https://www.facebook.com/24kblossom
 
 ## Demo (static image):
 <img src="https://github.com/melvincwng/facebook-clone/blob/master/images/fbclone.JPG"/>

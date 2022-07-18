@@ -6,8 +6,8 @@ Website chosen: **Facebook login page**.
 ## Languages:
 HTML, CSS & JS only
 
-## Live Demo:
-https://fb8.netlify.app/
+## Contact 
+https://www.facebook.com/24kblossom/
 
 ## Demo (static image):
 <img src="https://github.com/melvincwng/facebook-clone/blob/master/images/fbclone.JPG"/>
